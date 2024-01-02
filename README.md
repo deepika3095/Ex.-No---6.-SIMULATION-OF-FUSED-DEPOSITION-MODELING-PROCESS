@@ -24,9 +24,6 @@
 ![image](https://github.com/deepika3095/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/151625159/034846b4-3bcf-46df-a8cc-d06215db1a0e)
 ![image](https://github.com/deepika3095/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/151625159/7848f057-f860-4c15-a2ab-3bdf4eca0570)
 ![image](https://github.com/deepika3095/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/151625159/7935f3b6-9300-4f1e-82c4-4ec4b9e58492)
-![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
-
-## Output:
 
 ### Name: Deepika R
 ### Register Number: 23006405
